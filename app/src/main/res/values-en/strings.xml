@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorExample</string>
+    <string name="titol">The colors</string>
+    <string name="encerts">#Hits:</string>
+    <string name="errors">#Mistakes:</string>
+    <string name="bt1">RED</string>
+    <string name="bt2">BLUE</string>
+    <string name="bt3">BLACK</string>
+</resources>
